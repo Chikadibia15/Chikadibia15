@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chikadibia15
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on website design and development 
 - 📫 You can reach me at emmanuelvictory1503@icloud.com
 
 <!---
